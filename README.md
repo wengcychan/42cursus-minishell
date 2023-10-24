@@ -44,4 +44,5 @@ To use Minishell program, follow these steps:
 	```bash
 	./minishell
 	```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start using your Minishell. You can run various commands, use pipelines, and perform redirection as you would in a standard shell.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start using your Minishell.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can run various commands, use pipelines, and perform redirection as you would in a standard shell.
