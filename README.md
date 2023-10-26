@@ -13,6 +13,8 @@ For more projects related to 42cursus, please visit the [hive-42cursus](https://
 
 The goal of this project is to create a custom shell, capable of running commands and interacting with the operating system. Minishell will support various shell commands and features.
 
+![Minishell Program](./images/minishell.gif)
+
 ## Features
 
 - **Command Execution**: Minishell can execute system commands and display the output.
