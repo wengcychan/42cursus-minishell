@@ -47,4 +47,9 @@ To use Minishell program, follow these steps:
 	./minishell
 	```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start using your Minishell.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can run various commands, use pipelines, and perform redirection as you would in a standard shell.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can run various commands, use pipelines, and perform redirection as you would in a standard shell.  
+
+## Contributors
+
+- [Lidan Zhang](https://github.com/ldzlidzhang)
+- [Wing](https://github.com/wengcychan)
